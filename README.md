@@ -1,20 +1,3 @@
-Claro. Para o GitHub, eu usaria um nome mais técnico e uma descrição curta, deixando toda a profundidade para o README.
-
-**Nome do repositório**
-
-`legacy-code`
-
-**Descrição curta do GitHub**
-
-> AI-native software engineering platform for autonomous coding, agent orchestration, workspaces, tools, MCP, Git, terminal and multi-provider LLM infrastructure.
-
-**Topics sugeridos**
-
-`ai` `software-engineering` `ai-agents` `coding-agent` `developer-tools` `mcp` `llm` `nvidia-ai` `git` `automation` `typescript` `astro` `react` `agentic-ai`
-
-E este seria o README principal:
-
-```markdown
 # Legacy Code
 
 > AI-native software engineering platform for building, analyzing, modifying, testing and operating software through natural language.
